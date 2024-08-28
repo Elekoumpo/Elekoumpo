@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ejub (or in the DEV environment @Elekoumpo)
 - 👀 I’m interested mostly in Microservice Arhitecture and Web Development.
-- 🌱 I’m currently learning React.js, Express.js, Typescript and GraphQL.
+- 🌱 I’m currently working with Java/Spring, SQL(Oracle and Postgres)/MongoDB and React.js (Typescript/Tailwind)
 - 💞️ I’m looking to collaborate on any kind of projects that would cotribute to my knowledge and put me in favorable position skillwise.
 - 📫 How to reach me: ejubmezit@gmail.com;
                        FB:Ejub Mezit;
